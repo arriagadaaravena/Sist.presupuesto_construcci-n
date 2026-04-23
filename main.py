@@ -1,14 +1,6 @@
 import os
 os.system("cls")
 
-
-#Solicitar al usuario: 
-# #Nombre del proyecto 
-# #Cantidad de metros cuadrados a construir 
-# #Costo por metro cuadrado 
-# #Cantidad de trabajadores 
-# #Pago por trabajador 
-
 IVA = 0.19
 PRESUPUESTO_MAXIMO = 50000000
 
